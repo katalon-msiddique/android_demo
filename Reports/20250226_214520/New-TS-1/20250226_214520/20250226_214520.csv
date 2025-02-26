@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New-TS-1,,,,26-02-2025 21:45:25,26-02-2025 21:46:08,43.512s,PASSED
+,,,,,,,
+Test Cases/New-Test-1,,,,26-02-2025 21:45:25,26-02-2025 21:46:08,43.430s,PASSED
+"startApplication(""15385d23-e460-4a2d-8fdc-6ac1286a01e8"", true)",,,,26-02-2025 21:45:25,26-02-2025 21:45:52,26.552s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.TextView - Accessibility""), 0)",,,,26-02-2025 21:45:52,26-02-2025 21:45:56,4.119s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.TextView - Custom View""), 0)",,,,26-02-2025 21:45:56,26-02-2025 21:45:59,3.763s,PASSED
+pressBack(),,,,26-02-2025 21:45:59,26-02-2025 21:46:02,2.152s,PASSED
+pressBack(),,,,26-02-2025 21:46:02,26-02-2025 21:46:04,2.876s,PASSED
+closeApplication(),,,,26-02-2025 21:46:04,26-02-2025 21:46:08,3.923s,PASSED

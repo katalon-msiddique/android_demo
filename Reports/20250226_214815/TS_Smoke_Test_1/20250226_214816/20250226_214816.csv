@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_Smoke_Test_1,,,,26-02-2025 21:48:23,26-02-2025 21:49:11,47.176s,PASSED
+,,,,,,,
+Test Cases/New-Test-1,,,,26-02-2025 21:48:24,26-02-2025 21:49:11,47.085s,PASSED
+"startApplication(""15385d23-e460-4a2d-8fdc-6ac1286a01e8"", true)",,,,26-02-2025 21:48:24,26-02-2025 21:48:53,29.305s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.TextView - Accessibility""), 0)",,,,26-02-2025 21:48:53,26-02-2025 21:48:58,4.815s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.TextView - Custom View""), 0)",,,,26-02-2025 21:48:58,26-02-2025 21:49:01,3.782s,PASSED
+pressBack(),,,,26-02-2025 21:49:01,26-02-2025 21:49:04,2.648s,PASSED
+pressBack(),,,,26-02-2025 21:49:04,26-02-2025 21:49:07,2.625s,PASSED
+closeApplication(),,,,26-02-2025 21:49:07,26-02-2025 21:49:11,3.867s,PASSED

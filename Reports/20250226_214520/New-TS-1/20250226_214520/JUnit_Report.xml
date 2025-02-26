@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New-TS-1" time="43.512" tests="1" failures="0" errors="0">
+   <testsuite name="New-TS-1" tests="1" failures="0" errors="0" time="43.512" skipped="0" timestamp="26-02-2025T21:45:25" hostname="mahtabsiddique - localhost" id="Test Suites/New-TS-1">
+      <properties>
+         <property name="deviceName" value="Pixel 9 Pro"/>
+         <property name="devicePlatform" value="ANDROID"/>
+         <property name="logFolder" value="/Users/mahtabsiddique/Katalon Studio/Android_070225_01/Reports/20250226_214520/New-TS-1/20250226_214520"/>
+         <property name="logFiles" value="/Users/mahtabsiddique/Katalon Studio/Android_070225_01/Reports/20250226_214520/New-TS-1/20250226_214520/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="mahtabsiddique - localhost"/>
+         <property name="remoteDriverUrl" value="https://token:eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJpZTlDMnN4ZjZ4czczSHJxY0QyejRxcVVzNEFpOWVzNXR5SVVKYmRTYW04In0.eyJleHAiOjE3NDA3NTg0MjQsImlhdCI6MTc0MDU4NTYyNCwiYXV0aF90aW1lIjoxNzQwNTg1NjIzLCJqdGkiOiI0YzliMTkzZS04YzM4LTQ0NDYtYjU1MS1kODMzMTEzODljYzciLCJpc3MiOiJodHRwczovL2xvZ2luLmthdGFsb24uY29tL3JlYWxtcy9rYXRhbG9uIiwiYXVkIjoiYWNjb3VudCIsInN1YiI6IjkxNGI4NWY4LTFmYTQtNGFhNy1hZGYyLWI5ZmE1MThiNDg5MSIsInR5cCI6IkJlYXJlciIsImF6cCI6ImthdGFsb24tc3R1ZGlvIiwic2lkIjoiMjhjYjIwNmYtNTdjMy00YmViLWFkOTAtNThmODQ4NzQzNGNjIiwiYWNyIjoiMSIsImFsbG93ZWQtb3JpZ2lucyI6WyJodHRwczovL2thdGFsb24ubG9jYWwiLCJodHRwczovL2xvY2FsaG9zdCIsImh0dHA6Ly9rYXRhbG9uLmxvY2FsIiwiaHR0cDovLzEyNy4wLjAuMSIsImh0dHBzOi8vMTI3LjAuMC4xIiwiaHR0cDovL2xvY2FsaG9zdCJdLCJyZWFsbV9hY2Nlc3MiOnsicm9sZXMiOlsidW1hX2F1dGhvcml6YXRpb24iLCJkZWZhdWx0LXJvbGVzLWthdGFsb24iXX0sInJlc291cmNlX2FjY2VzcyI6eyJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19LCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIiwiYWNjb3VudF91dWlkIjoiN2MzZmIwNWMtOGY4ZS00MjU5LWJhMzktNjQzNDIwNGE5NzIxIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImxhc3RfbG9naW4iOjE3NDA1ODU2MjM2NzcsIm5hbWUiOiJNYWh0YWIgU2lkZGlxdWUiLCJjcmVhdGVkX3RpbWVzdGFtcCI6MTczMjA4MDU0NDQ2NywicHJlZmVycmVkX3VzZXJuYW1lIjoibWFodGFiLnNpZGRpcXVlQGthdGFsb24uY29tIiwiZ2l2ZW5fbmFtZSI6Ik1haHRhYiIsImZhbWlseV9uYW1lIjoiU2lkZGlxdWUiLCJlbWFpbCI6Im1haHRhYi5zaWRkaXF1ZUBrYXRhbG9uLmNvbSJ9.JoY43I5TJIYj_RoYc9lUFatZG_j6Y0lh_5OfKYw-Xbr4uV8S32I2xzOIKmYbNd4caxwU57pDTI1hUJU5qytN8ay6Lk7XfIVv8Mp1PGv5QFN3KGLE8wStBFSjnLhC069s_NRM0eCTeVGDF_S0avf1uj90rM2S2_5ojopPN8_zZRsSmxPmfPaUeAD1x09k5qYS4kZwBrOj788xPd_tRsk3o7pGmg0eruhHi9Ln2ZCZtb5XrPveYxoXrwloeOawc7JFRfFLN2QHxTlgQVTMtHIJe4QNBcBuVu2_uEpo-xb2EZIogschqSKZqPoMi7UvBplxdkZULZGvTFGHBp7Pygaxcg@testcloud.katalon.com/hub"/>
+         <property name="desiredCapabilities" value="{&#xa;  &quot;app&quot;: &quot;15385d23-e460-4a2d-8fdc-6ac1286a01e8&quot;,&#xa;  &quot;appium:deviceName&quot;: &quot;Any Phone&quot;,&#xa;  &quot;platformName&quot;: &quot;ANDROID&quot;,&#xa;  &quot;appium:platformVersion&quot;: &quot;14&quot;,&#xa;  &quot;katalon:options&quot;: {&#xa;    &quot;metadata&quot;: {&#xa;      &quot;organizationId&quot;: &quot;1761048&quot;,&#xa;      &quot;accountId&quot;: &quot;1436293&quot;,&#xa;      &quot;channel&quot;: &quot;kse;v\u003d10.1.0&quot;&#xa;    },&#xa;    &quot;appiumVersion&quot;: &quot;2.11.2&quot;,&#xa;    &quot;executionMode&quot;: &quot;queue&quot;,&#xa;    &quot;usingTunnel&quot;: false&#xa;  }&#xa;}"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="10.1.0.223"/>
+         <property name="katalon:caps" value="{&#xa;  &quot;executionId&quot;: &quot;1557611a-1ff5-40ee-bbb5-54416049bb8a&quot;,&#xa;  &quot;executionSessionId&quot;: &quot;648b594c-d77c-4012-af5c-b0efb435699b&quot;,&#xa;  &quot;deviceName&quot;: &quot;Pixel 9 Pro&quot;&#xa;}"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="deviceName" value="Pixel 9 Pro"/>
+      </properties>
+      <testcase name="Test Cases/New-Test-1" time="43.43" classname="Test Cases/New-Test-1" status="PASSED">
+         <system-out><![CDATA[26-02-2025T21:45:25 - [TEST_CASE][PASSED] - Test Cases/New-Test-1: Test Cases/New-Test-1
+
+26-02-2025T21:45:25 - [TEST_STEP][PASSED] - startApplication("15385d23-e460-4a2d-8fdc-6ac1286a01e8", true): Started application: '15385d23-e460-4a2d-8fdc-6ac1286a01e8'
+
+26-02-2025T21:45:25 - [MESSAGE][INFO] - Overriding application: '15385d23-e460-4a2d-8fdc-6ac1286a01e8' by '15385d23-e460-4a2d-8fdc-6ac1286a01e8'
+
+26-02-2025T21:45:25 - [MESSAGE][INFO] - Override application info: '{"id":"15385d23-e460-4a2d-8fdc-6ac1286a01e8","organizationId":"1761048","name":"API Demos","platform":"ANDROID","status":"READY","size":5049398,"storagePath":"6a438711-92c3-454a-86e7-c21b4a5d5ecf","uploadedDate":"2025-02-26T16:03:22.695691","createdDate":"2025-02-26T16:03:22.695691","updatedDate":"2025-02-26T16:03:26.291819","fileName":"APIDemos.apk","metadata":{"identifier":"io.appium.android.apis","name":"API Demos","version":"4.1.1"}}'
+
+26-02-2025T21:45:25 - [MESSAGE][INFO] - Starting application: '15385d23-e460-4a2d-8fdc-6ac1286a01e8'
+
+26-02-2025T21:45:50 - [MESSAGE][WARNING] - Unable to get appium status. Root cause (com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 11 path $)
+
+26-02-2025T21:45:52 - [MESSAGE][PASSED] - Started application: '15385d23-e460-4a2d-8fdc-6ac1286a01e8'
+
+26-02-2025T21:45:52 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/android.widget.TextView - Accessibility"), 0): Tapped on element 'Object Repository/android.widget.TextView - Accessibility'
+
+26-02-2025T21:45:52 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+26-02-2025T21:45:56 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.TextView - Accessibility'
+
+26-02-2025T21:45:56 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/android.widget.TextView - Custom View"), 0): Tapped on element 'Object Repository/android.widget.TextView - Custom View'
+
+26-02-2025T21:45:56 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+26-02-2025T21:45:59 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.TextView - Custom View'
+
+26-02-2025T21:45:59 - [TEST_STEP][PASSED] - pressBack(): Press back button successfully
+
+26-02-2025T21:46:02 - [MESSAGE][PASSED] - Press back button successfully
+
+26-02-2025T21:46:02 - [TEST_STEP][PASSED] - pressBack(): Press back button successfully
+
+26-02-2025T21:46:04 - [MESSAGE][PASSED] - Press back button successfully
+
+26-02-2025T21:46:04 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+26-02-2025T21:46:08 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[26-02-2025T21:45:25 - [TEST_SUITE][PASSED] - New-TS-1: Test Cases/New-Test-1]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
